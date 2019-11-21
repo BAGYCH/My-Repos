@@ -1,0 +1,8 @@
+C:\Users\BAGYCH\source\repos\My Project\My_Project\My_Project\bin\Debug\My_Project.exe.config
+C:\Users\BAGYCH\source\repos\My Project\My_Project\My_Project\bin\Debug\My_Project.exe
+C:\Users\BAGYCH\source\repos\My Project\My_Project\My_Project\bin\Debug\My_Project.pdb
+C:\Users\BAGYCH\source\repos\My Project\My_Project\My_Project\obj\Debug\My_Project.Properties.Resources.resources
+C:\Users\BAGYCH\source\repos\My Project\My_Project\My_Project\obj\Debug\My_Project.csproj.GenerateResource.cache
+C:\Users\BAGYCH\source\repos\My Project\My_Project\My_Project\obj\Debug\My_Project.exe
+C:\Users\BAGYCH\source\repos\My Project\My_Project\My_Project\obj\Debug\My_Project.pdb
+C:\Users\BAGYCH\source\repos\My Project\My_Project\My_Project\obj\Debug\My_Project.Chitalka.resources
